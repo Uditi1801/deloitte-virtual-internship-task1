@@ -54,5 +54,5 @@ The dataset is now clean and ready for further exploration, visualizations, and 
 
 ## 🔗 Connect With Me
 **Uditi**  
-[LinkedIn](https://linkedin.com/in/YOURUSERNAME) *(replace with yours)*  
-GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+LinkdIn:https://www.linkedin.com/in/uditi-mehta-22a10636a/ 
+GitHub: Uditi1801-Username
