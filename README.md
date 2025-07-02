@@ -1,3 +1,14 @@
+# Deloitte Data Science Internship (via AISECT) – 2025
+
+This section highlights my experience and learnings under the Deloitte-branded internship, offered in collaboration with AISECT. The program focuses on how Python is used in the real world for Data Science and career readiness.
+
+## 🧠 Focus Areas:
+- Industry applications of Data Science and Python
+- Roles in AI, ML, and analytics
+- Exposure to career paths and real business challenges
+
+This internship is helping me build a strong foundation not just in coding, but also in understanding the tech industry's expectations and workflows.
+
 # Deloitte Virtual Internship – Task 1 
 
 This repository contains my submission for Task 1 of the Deloitte Data Analyst Virtual Internship hosted on Forage.
